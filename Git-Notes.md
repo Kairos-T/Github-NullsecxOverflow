@@ -37,9 +37,9 @@ git add . # Staging all files to be commit
 
 - Committing files to GitHub:
 ```
-`Git config --global user.name ""` (Use this the first time only -- ever)
-`Git config --global user.email ""`
-`Git commit -m (message)` or `Git commit --message (message)`
+Git config --global user.name "" (Use this the first time only -- ever)
+Git config --global user.email ""
+Git commit -m (message) or Git commit --message (message)
 ```
 
 File statuses: 
