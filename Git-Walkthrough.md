@@ -63,3 +63,10 @@ git status
 git retore (file)
 git status (nothing to commit now)
 ```
+
+## .gitignore
+- Files/Info you dont want the public to see (E.g. VSC Configs, API keys)
+
+
+<img width="102" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/24442a15-78b8-4c30-9676-b4e09677869b">
+<img width="369" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/1ea3426a-c8d1-449d-8408-3a265922cf40">
