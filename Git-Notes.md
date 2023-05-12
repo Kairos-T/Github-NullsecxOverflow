@@ -1,19 +1,19 @@
 ### Open GIT Bash
 - Creating directory <br>
 ```
-`mkdir (name)`
+mkdir (name)
 ```
 
 
 - Changing directory
 ```
-`cd (name)`
+cd (name)
 ```
 
 
 - Intialising the repository on your system
 ```
-`git init`
+git init
 ```
 
 ### Open VSC
@@ -26,19 +26,19 @@
 
 - Viewing status of repository (repo)
 ```
-`Git status`
+Git status
 ```
 <img width="367" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/329c8972-3920-4c57-98dd-8bb65c063ffd"> <br>
 - Add files to staging
 ```
-`git add (file)` # Staging specific file to be commit 
-`git add .` # Staging all files to be commit
+git add (file) # Staging specific file to be commit 
+git add . # Staging all files to be commit
 ```
 
 - Committing files to GitHub:
 ```
-`Git config --global user.name` (Use this the first time only -- ever)
-`Git config --global email@email.com`
+`Git config --global user.name ""` (Use this the first time only -- ever)
+`Git config --global user.email ""`
 `Git commit -m (message)` or `Git commit --message (message)`
 ```
 
