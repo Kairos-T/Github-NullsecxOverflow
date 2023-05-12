@@ -51,6 +51,9 @@ M: Modified
 D: Deleted
 ```
 <img width="89" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/b6f9e7d7-a295-4088-bf4d-671d797249e7">
+<img width="128" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/e2ab6674-7bb7-4a5e-b7d0-928e6ff4acb7">
+
 <br>
 
+## Restoring previous version
 
