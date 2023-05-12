@@ -3,10 +3,12 @@
 `mkdir (name)`
 ```
 
+
 - Changing directory
 ```
 `cd (name)`
 ```
+
 
 - Intialising the repository on your system
 ```
