@@ -63,6 +63,8 @@ git status
 git retore (file)
 git status (nothing to commit now)
 ```
+<br>
+
 
 ## .gitignore
 - Create a file named '.gitignore'
@@ -71,6 +73,8 @@ git status (nothing to commit now)
 
 <img width="102" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/24442a15-78b8-4c30-9676-b4e09677869b">
 <img width="369" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/1ea3426a-c8d1-449d-8408-3a265922cf40">
+<br>
+
 
 ## Deleting files
  ```
@@ -82,3 +86,9 @@ git status (nothing to commit now)
  git restore --staged (file name)
  git restore (file name)
  ```
+ <br>
+ 
+## Renaming files
+```
+git mv (old file name) (new file name)
+```
