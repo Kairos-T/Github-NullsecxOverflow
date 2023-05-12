@@ -37,7 +37,8 @@
 
 - Committing files to GitHub:
 ```
-`Giti config --global` (Use this the first time only -- ever)
+`Git config --global user.name` (Use this the first time only -- ever)
+`Git config --global email@email.com`
 `Git commit -m (message)` or `Git commit --message (message)`
 ```
 
