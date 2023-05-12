@@ -59,4 +59,7 @@ D: Deleted
 - Modify a file first, then use `git add (file name)`
 ```
 git restore --stage (file name)
+git status
+git retore (file)
+git status (nothing to commit now)
 ```
