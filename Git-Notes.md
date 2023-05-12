@@ -56,4 +56,7 @@ D: Deleted
 <br>
 
 ## Restoring previous version
-
+- Modify a file first, then use `git add (file name)`
+```
+git restore --stage (file name)
+```
