@@ -1,14 +1,15 @@
+- Creating directory <br>
 ```
 `mkdir (name)`
 ```
-- Creating directory <br>
 
+- Changing directory
 ```
 `cd (name)`
 ```
-- Changing directory<br>
 
+- Intialising the repository on your system
 ```
 `git init`
 ```
-- Intialising the repository on your system<br>
+
