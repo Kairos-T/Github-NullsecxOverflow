@@ -86,9 +86,12 @@ git status (nothing to commit now)
  git restore --staged (file name)
  git restore (file name)
  ```
+ <img width="613" alt="image" src="https://github.com/Kairos-T/Github-NullsecxOverflow/assets/80029462/c1aa3464-29f5-47a4-a865-a05fba3acbcc">
+
  <br>
  
 ## Renaming files
 ```
 git mv (old file name) (new file name)
 ```
+
